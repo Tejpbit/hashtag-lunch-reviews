@@ -11,7 +11,7 @@
     "@types/lodash": "^4.14.123",
     "@types/node-fetch": "^2.3.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.3.0",
     "serverless-dotenv-plugin": "^2.0.1"
   },
