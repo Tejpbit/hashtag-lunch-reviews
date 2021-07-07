@@ -8,7 +8,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "@types/history": "^4.7.7",
-    "@types/jest": "23.3.13",
+    "@types/jest": "26.0.24",
     "@types/lodash": "^4.14.120",
     "@types/node": "11.13.4",
     "@types/react": "16.8.13",
