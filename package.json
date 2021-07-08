@@ -12,7 +12,7 @@
     "@types/lodash": "^4.14.120",
     "@types/node": "11.13.4",
     "@types/react": "16.8.13",
-    "@types/react-dom": "16.8.4",
+    "@types/react-dom": "17.0.9",
     "@types/react-fontawesome": "^1.6.4",
     "@types/react-places-autocomplete": "^7.2.5",
     "@types/react-router-dom": "^4.3.1",
